@@ -1,0 +1,29 @@
+*{
+	font-family: arial;
+}
+body, h1{
+	margin: 0px;
+	padding: 0px;
+}
+.area{
+	width: 1000px;
+	background-color: #FFC0CB;
+	margin: auto;
+	padding: 20px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+.titulo{
+	width:1000px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+input{
+	padding: 10px;
+	width: 200px;
+	margin-right: 10px;
+}
+#qtd_dig{
+	margin-left: 137px;
+	margin-right: 10px;
+}
